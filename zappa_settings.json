@@ -1,0 +1,11 @@
+{
+    "dev": {
+        "app_function": "pedro.app",
+        "aws_region": "us-east-1",
+        "profile_name": "default",
+        "project_name": "pedro",
+        "runtime": "python3.6",
+        "slim_handler": "true",
+        "s3_bucket": "zappa-c65p03056"
+    }
+}
